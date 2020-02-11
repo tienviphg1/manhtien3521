@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: "Avenir Next",arial,serif; }
+
+.slidebar-former-student .button-slidebar-former-student-1 {
+  padding: 10px 126px 0 25px;
+  background: #eb991b;
+  margin-bottom: 5px;
+  text-decoration: none; }
+.slidebar-former-student .button-slidebar-former-student-1:hover {
+  background: #c98218; }
+.slidebar-former-student .button-slidebar-former-student-2 {
+  padding: 10px 56px 0 27px;
+  background: #b60505;
+  margin-bottom: 5px;
+  text-decoration: none; }
+.slidebar-former-student .button-slidebar-former-student-2:hover {
+  background: #eb991b; }
+.slidebar-former-student .text-button-slidebar-former-student {
+  text-transform: none;
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff; }
+.slidebar-former-student .button-slidebar-former-student-3 {
+  padding: 10px 91px 0 27px;
+  background: #b60505;
+  margin-bottom: 5px;
+  text-decoration: none; }
+.slidebar-former-student .button-slidebar-former-student-3:hover {
+  background: #eb991b; }
+
+.advertisement-slidebar-former-student-main-1 {
+  background: #fd7522;
+  position: relative;
+  color: #fff;
+  padding: 30px 19px;
+  margin-top: 15px;
+  font-family: "Avenir Next",arial,serif; }
+  .advertisement-slidebar-former-student-main-1 .h3-advertisement-slidebar-former-student-1 {
+    font-size: 24px;
+    font-weight: 100; }
+  .advertisement-slidebar-former-student-main-1 .a-advertisement-slidebar-former-student-1 {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none; }
+
+.advertisement-slidebar-former-student-main-2 {
+  background: #1683d4;
+  position: relative;
+  color: #fff;
+  padding: 30px 25px;
+  margin-top: 10px; }
+  .advertisement-slidebar-former-student-main-2 .a-advertisement-slidebar-former-student-2 {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none; }
+
+.box-text-former-student {
+  background: #fff;
+  border: 1px solid rgba(173, 173, 173, 0.322); }
+  .box-text-former-student .title-former-student {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    font-family: "Avenir Next",arial,serif; }
+    .box-text-former-student .title-former-student .h1-title-former-student-1 {
+      font-weight: 700;
+      color: rgba(120, 120, 120, 0.767); }
+    .box-text-former-student .title-former-student .span-title-former-student {
+      color: #eb991b; }
+  .box-text-former-student .text-title-former-student-1 {
+    margin-left: 80px;
+    font-family: "Avenir Next",arial,serif; }
+  .box-text-former-student .img-former-student {
+    margin-left: 60px;
+    width: 600px;
+    height: 400px; }
+  .box-text-former-student .title-img-former-student {
+    text-align: center; }
+  .box-text-former-student .icon-former-student {
+    padding-top: 50px;
+    padding-left: 30px; }
+  .box-text-former-student .li-text-former-student-main {
+    background: #ddd; }
+    .box-text-former-student .li-text-former-student-main .link-text-former-student-main {
+      color: #707070; }
+    .box-text-former-student .li-text-former-student-main .link-text-former-student-main:hover {
+      color: #c98218; }
+  .box-text-former-student .li-text-main-former-student-1 {
+    background: #b21116; }
+    .box-text-former-student .li-text-main-former-student-1 .link-text-main-former-student-1 {
+      color: white; }
+
+/*# sourceMappingURL=former-student.css.map */

@@ -1,0 +1,179 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Avenir Next",arial,serif;
+
+}
+// Đây là phần bao ngoài của phần slide
+.slidebar-MessftBoss{
+    // Đây là phần 1
+        .button-slidebar-MessftBoss-1{
+            padding:10px 40px 0 25px;
+            background: #b60505;
+            margin-bottom: 5px;
+            text-decoration: none;
+        }
+    //Đây là hover của phần 1
+        .button-slidebar-MessftBoss-1:hover{
+            background: #eb991b;
+        }
+    //Đây là phần 2
+        .button-slidebar-MessftBoss-2{
+            padding:10px 172px 0 27px;
+            background: #b60505;
+            margin-bottom: 5px;
+            text-decoration: none;
+        }
+    //Đây là hover phần 2
+        .button-slidebar-MessftBoss-2:hover{
+            background:  #eb991b;
+        }
+    //Đây là phần 3
+        .button-slidebar-MessftBoss-3{
+            padding:10px 166px 0 27px;
+            background: #b60505;
+            margin-bottom: 5px;
+            text-decoration: none;
+        }
+    //Đây là hover phần 3
+        .button-slidebar-MessftBoss-3:hover{
+            background: #eb991b;
+        }
+    //Đây là phần 4
+        .button-slidebar-MessftBoss-4{
+            padding:10px 45px 0 27px;
+            background:  #eb991b;
+            text-decoration: none;
+        }
+       
+    //Đây là hover phần 4
+        .button-slidebar-MessftBoss-4:hover{
+            background: #c98218;
+        }
+       
+         .text-button-slidebar-MessftBoss{
+            text-transform: none;
+            font-size: 18px;
+            font-weight: 500;
+            color:#fff;
+        }
+    }
+    .advertisement-slidebar-MessftBoss-main-1{
+        background: #fd7522;
+        position: relative;
+        color:#fff;
+        padding:30px 19px;
+        margin-top:15px;
+        font-family: "Avenir Next",arial,serif;
+        .h3-advertisement-slidebar-MessftBoss-1{
+            font-size:24px;
+            font-weight: 100;
+            
+        }
+        .a-advertisement-slidebar-MessftBoss-1{
+            font-weight: 700;
+            text-transform: uppercase;
+            color:#fff;
+            text-decoration: none;
+        }
+    
+    }
+    .advertisement-slidebar-MessftBoss-main-2{
+        background: #1683d4;
+        position: relative;
+        color: #fff;
+        padding:30px 25px;
+        margin-top:10px;
+        .a-advertisement-slidebar-MessftBoss-2{
+            font-weight: 700;
+            text-transform: uppercase;
+            color:#fff;
+            text-decoration: none;
+        }
+    }
+//Đây là phần box-text-MessftBoss
+.box-text-MessftBoss{
+    background: #fff;
+    border: 1px solid rgba(173, 173, 173, 0.322);
+    .title-MessftBoss{
+        padding-top:30px;
+        padding-left:30px;
+        font-family: "Avenir Next",arial,serif;
+        .h1-title-MessftBoss-1{
+            font-weight: 700;
+            color:rgba(120, 120, 120, 0.767)
+        }
+        .h1-title-MessftBoss-2{
+            font-weight: 700;
+            color:rgba(120, 120, 120, 0.767);
+            padding-left:43px;
+        }
+        .span-title-MessftBoss{
+            color:#eb991b;
+        }
+    
+    }
+    .title-img-MessftBoss{
+        padding-top:10px;
+        padding-left: 40px;
+        .h5-title-img-MessftBoss{          
+            font-weight: 700;
+        }
+    }
+    .img-MessftBoss-1{
+        padding:20px 160px;
+        .img-inside-MessftBoss-1{
+            width: 500px;
+            height: 419;
+        }
+    }
+    .text-MessftBoss-1{
+        padding-left:30px;
+        .p-text-MessftBoss-1{
+            font-weight: 500;
+            font-size: 17px;
+            font-family: "Avenir Next",arial,serif;
+        }
+    }
+    .img-MessftBoss-2{
+        padding-left:200px;
+        padding-bottom: 30px;
+        .img-inside-MessftBoss-2{
+            width: 450px;
+            height: 450px;
+        }
+    }
+    .text-MessftBoss-2{
+        .p-text-MessftBoss-2{
+            font-weight: 500;
+            font-size: 16px;
+            font-family: "Avenir Next",arial,serif;
+            padding-left:35px;
+        }
+    }
+//Đây là phần icon-MessftBoss
+    .icon-MessftBoss{
+        padding-top:50px;
+        padding-left:30px;
+    }
+    .li-text-MessftBoss-main{
+        background: #ddd   ;
+        .link-text-MessftBoss-main{
+            color:rgb(112, 112, 112);
+        }
+//Đây là phần link được hover
+    .link-text-MessftBoss-main:hover{
+        color:#c98218;
+    }
+    }
+    .li-text-main-MessftBoss-1{
+        background: #b21116;
+        .link-text-main-MessftBoss-1{
+            color:white;
+        }
+    }
+}
+   

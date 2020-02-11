@@ -1,0 +1,106 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: "Avenir Next",arial,serif; }
+
+.slidebar-extracurricular .button-slidebar-extracurricular-1 {
+  padding: 10px 126px 0 25px;
+  background: #b60505;
+  margin-bottom: 5px;
+  text-decoration: none; }
+.slidebar-extracurricular .button-slidebar-extracurricular-1:hover {
+  background: #eb991b; }
+.slidebar-extracurricular .button-slidebar-extracurricular-2 {
+  padding: 10px 56px 0 27px;
+  background: #eb991b;
+  margin-bottom: 5px;
+  text-decoration: none; }
+.slidebar-extracurricular .button-slidebar-extracurricular-2:hover {
+  background: #c98218; }
+.slidebar-extracurricular .text-button-slidebar-extracurricular {
+  text-transform: none;
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff; }
+.slidebar-extracurricular .button-slidebar-extracurricular-3 {
+  padding: 10px 91px 0 27px;
+  background: #b60505;
+  margin-bottom: 5px;
+  text-decoration: none; }
+.slidebar-extracurricular .button-slidebar-extracurricular-3:hover {
+  background: #eb991b; }
+
+.advertisement-slidebar-extracurricular-main-1 {
+  background: #fd7522;
+  position: relative;
+  color: #fff;
+  padding: 30px 19px;
+  margin-top: 15px;
+  font-family: "Avenir Next",arial,serif; }
+  .advertisement-slidebar-extracurricular-main-1 .h3-advertisement-slidebar-extracurricular-1 {
+    font-size: 24px;
+    font-weight: 100; }
+  .advertisement-slidebar-extracurricular-main-1 .a-advertisement-slidebar-extracurricular-1 {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none; }
+
+.advertisement-slidebar-extracurricular-main-2 {
+  background: #1683d4;
+  position: relative;
+  color: #fff;
+  padding: 30px 25px;
+  margin-top: 10px; }
+  .advertisement-slidebar-extracurricular-main-2 .a-advertisement-slidebar-extracurricular-2 {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none; }
+
+.box-text-extracurricular {
+  background: #fff;
+  border: 1px solid rgba(173, 173, 173, 0.322); }
+  .box-text-extracurricular .title-extracurricular {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    font-family: "Avenir Next",arial,serif; }
+    .box-text-extracurricular .title-extracurricular .h1-title-extracurricular-1 {
+      font-weight: 700;
+      color: rgba(120, 120, 120, 0.767); }
+    .box-text-extracurricular .title-extracurricular .h1-title-extracurricular-2 {
+      font-weight: 700;
+      color: rgba(120, 120, 120, 0.767);
+      margin-left: 46px; }
+    .box-text-extracurricular .title-extracurricular .span-title-extracurricular {
+      color: #eb991b; }
+  .box-text-extracurricular .h4-title-extracurricular {
+    font-weight: 600; }
+  .box-text-extracurricular .img-extracurricular {
+    margin-left: 60px;
+    width: 600px;
+    height: 400px; }
+  .box-text-extracurricular .title-img-extracurricular {
+    text-align: center; }
+  .box-text-extracurricular .text-title-extracurricular-1 {
+    margin-left: 80px;
+    font-family: "Avenir Next",arial,serif; }
+  .box-text-extracurricular .icon-extracurricular {
+    padding-top: 50px;
+    padding-left: 30px; }
+  .box-text-extracurricular .li-text-extracurricular-main {
+    background: #ddd; }
+    .box-text-extracurricular .li-text-extracurricular-main .link-text-extracurricular-main {
+      color: #707070; }
+    .box-text-extracurricular .li-text-extracurricular-main .link-text-extracurricular-main:hover {
+      color: #c98218; }
+  .box-text-extracurricular .li-text-main-extracurricular-1 {
+    background: #b21116; }
+    .box-text-extracurricular .li-text-main-extracurricular-1 .link-text-main-extracurricular-1 {
+      color: white; }
+
+/*# sourceMappingURL=extracurricular.css.map */
